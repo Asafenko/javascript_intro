@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: antiquewhite;
+    margin: 10%;
+    padding: 10px;
+    list-style: inside;
+    width: 500px;
+}
+li{
+    padding: 5px;
+    margin: 5px;
+}
+
+.orange{
+    background-color: orange;
+    color: whitesmoke;
+}
+input{
+ margin-left: 200px;
+ width: 100px;
+}

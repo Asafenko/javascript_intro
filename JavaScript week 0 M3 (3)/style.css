@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 100px;
+    background-color: orange;
+    width: 300px;
+    height: 100px;
+    position: relative;
+}
+.bak{
+    position: absolute;
+    top: 35px;
+    left: 100px;
+    width: 100px;
+    padding: 6px;
+    color: chartreuse;
+    background-color: blue;
+    border: 2px solid brown;
+}
+
+.model{
+    margin: 300px;
+    background-color: black;
+    color: red;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    display: none;
+}
+
+div.blok{
+    display: block;
+}
+
+.buk{
+    position: absolute;
+    top:60px;
+    left: 10px;
+    width: 20px;
+    width: calc(100% - 20px);
+    border: 2px solid red ;
+    background-color: tan;
+}
+
+h3{
+    position: absolute;
+    top: 30px;
+    left: 80px;
+}

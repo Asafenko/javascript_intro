@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: bisque;
+    color: black;
+    margin: 100px;
+    height: 100px;
+    width: 400px;
+    position: relative;
+}
+
+input[type='text']{
+    margin-top: 5px;
+    width: 280px;
+    position: absolute;
+    top: 50px;
+    left: 60px;
+    height: 25px;
+}
+
+p{
+    position: absolute;
+    top: 30px;
+    left: 60px;
+}

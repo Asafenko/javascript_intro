@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    margin: 100px;
+    width: 500px;
+    height: 550px;
+    background-color: burlywood;
+    position: relative;
+   
+}
+input[type='radio']{
+    margin: 10px;
+}
+label{
+    color: brown;
+    font-size: 18px;
+}
+.are1{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    left: 20px;
+    top: 90px;
+    
+}
+.text1{
+    margin: 10px;
+    position: absolute;
+    left: 18px;
+    color:azure;
+}
+
+input[type='button']{
+    width:200px ;
+    position: absolute;
+    top: 260px;
+    left: 100px;
+    width: 300px;
+    height: 30px;
+}
+input[type='checkbox']{
+    margin: 10px;
+}
+
+.text2{
+    margin: 10px;
+    position: absolute;
+    left: 18px;
+    color:azure;
+    top: 300px;
+    
+}
+.area2{
+    width: 450px;
+    height: 150px;
+    position: absolute;
+    left: 20px;
+    top: 350px;
+    
+}
+/*///////////////////////////////////////////////////////////*/
+
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.italics{
+    font-style: italic;
+}
+.left{
+   text-align: left;
+}
+.right{
+    text-align: right;
+}
+.center{
+   text-align: center;
+}
